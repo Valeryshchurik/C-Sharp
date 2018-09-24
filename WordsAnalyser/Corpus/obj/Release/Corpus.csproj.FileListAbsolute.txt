@@ -1,0 +1,12 @@
+e:\Wrgaming_task\Corpus\Corpus\bin\Release\Corpus.exe.config
+e:\Wrgaming_task\Corpus\Corpus\bin\Release\Corpus.exe
+e:\Wrgaming_task\Corpus\Corpus\bin\Release\Corpus.pdb
+e:\Wrgaming_task\Corpus\Corpus\bin\Release\OpenNLP.dll
+e:\Wrgaming_task\Corpus\Corpus\bin\Release\SharpEntropy.dll
+e:\Wrgaming_task\Corpus\Corpus\obj\Release\Corpus.Form1.resources
+e:\Wrgaming_task\Corpus\Corpus\obj\Release\Corpus.Form2.resources
+e:\Wrgaming_task\Corpus\Corpus\obj\Release\Corpus.Properties.Resources.resources
+e:\Wrgaming_task\Corpus\Corpus\obj\Release\Corpus.csproj.GenerateResource.Cache
+e:\Wrgaming_task\Corpus\Corpus\obj\Release\Corpus.exe
+e:\Wrgaming_task\Corpus\Corpus\obj\Release\Corpus.pdb
+e:\Wrgaming_task\Corpus\Corpus\obj\Release\Corpus.csprojResolveAssemblyReference.cache
