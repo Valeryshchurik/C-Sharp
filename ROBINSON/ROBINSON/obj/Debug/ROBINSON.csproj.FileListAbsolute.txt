@@ -1,0 +1,6 @@
+E:\MyWORK\ИСОООООООООООООООООООООООООООООООООО\Simplex\ROBINSON\ROBINSON\bin\Debug\ROBINSON.exe.config
+E:\MyWORK\ИСОООООООООООООООООООООООООООООООООО\Simplex\ROBINSON\ROBINSON\bin\Debug\ROBINSON.exe
+E:\MyWORK\ИСОООООООООООООООООООООООООООООООООО\Simplex\ROBINSON\ROBINSON\bin\Debug\ROBINSON.pdb
+E:\MyWORK\ИСОООООООООООООООООООООООООООООООООО\Simplex\ROBINSON\ROBINSON\obj\Debug\ROBINSON.csprojResolveAssemblyReference.cache
+E:\MyWORK\ИСОООООООООООООООООООООООООООООООООО\Simplex\ROBINSON\ROBINSON\obj\Debug\ROBINSON.exe
+E:\MyWORK\ИСОООООООООООООООООООООООООООООООООО\Simplex\ROBINSON\ROBINSON\obj\Debug\ROBINSON.pdb

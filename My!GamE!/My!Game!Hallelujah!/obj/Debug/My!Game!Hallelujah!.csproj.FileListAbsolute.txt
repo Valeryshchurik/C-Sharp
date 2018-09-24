@@ -1,0 +1,51 @@
+c:\users\valera\documents\visual studio 2013\Projects\My!Game!Hallelujah!\My!Game!Hallelujah!\bin\Debug\My!Game!Hallelujah!.exe.config
+c:\users\valera\documents\visual studio 2013\Projects\My!Game!Hallelujah!\My!Game!Hallelujah!\bin\Debug\My!Game!Hallelujah!.exe
+c:\users\valera\documents\visual studio 2013\Projects\My!Game!Hallelujah!\My!Game!Hallelujah!\bin\Debug\My!Game!Hallelujah!.pdb
+c:\users\valera\documents\visual studio 2013\Projects\My!Game!Hallelujah!\My!Game!Hallelujah!\obj\Debug\My!Game!Hallelujah!.csprojResolveAssemblyReference.cache
+c:\users\valera\documents\visual studio 2013\Projects\My!Game!Hallelujah!\My!Game!Hallelujah!\obj\Debug\My!Game!Hallelujah!.exe
+c:\users\valera\documents\visual studio 2013\Projects\My!Game!Hallelujah!\My!Game!Hallelujah!\obj\Debug\My!Game!Hallelujah!.pdb
+F:\laboratory\My!Game!Hallelujah!\My!Game!Hallelujah!\bin\Debug\My!Game!Hallelujah!.exe.config
+F:\laboratory\My!Game!Hallelujah!\My!Game!Hallelujah!\obj\Debug\My!Game!Hallelujah!.exe
+F:\laboratory\My!Game!Hallelujah!\My!Game!Hallelujah!\obj\Debug\My!Game!Hallelujah!.pdb
+F:\laboratory\My!Game!Hallelujah!\My!Game!Hallelujah!\bin\Debug\My!Game!Hallelujah!.exe
+F:\laboratory\My!Game!Hallelujah!\My!Game!Hallelujah!\bin\Debug\My!Game!Hallelujah!.pdb
+F:\laboratory\My!Game!Hallelujah!\My!Game!Hallelujah!\obj\Debug\My!Game!Hallelujah!.csprojResolveAssemblyReference.cache
+D:\laboratory\My!Game!Hallelujah!\My!Game!Hallelujah!\bin\Debug\My!Game!Hallelujah!.exe.config
+D:\laboratory\My!Game!Hallelujah!\My!Game!Hallelujah!\obj\Debug\My!Game!Hallelujah!.exe
+D:\laboratory\My!Game!Hallelujah!\My!Game!Hallelujah!\obj\Debug\My!Game!Hallelujah!.pdb
+D:\laboratory\My!Game!Hallelujah!\My!Game!Hallelujah!\bin\Debug\My!Game!Hallelujah!.exe
+D:\laboratory\My!Game!Hallelujah!\My!Game!Hallelujah!\bin\Debug\My!Game!Hallelujah!.pdb
+D:\laboratory\My!Game!Hallelujah!\My!Game!Hallelujah!\obj\Debug\My!Game!Hallelujah!.csprojResolveAssemblyReference.cache
+g:\laboratory\My!Game!Hallelujah!\My!Game!Hallelujah!\bin\Debug\My!Game!Hallelujah!.exe.config
+g:\laboratory\My!Game!Hallelujah!\My!Game!Hallelujah!\obj\Debug\My!Game!Hallelujah!.exe
+g:\laboratory\My!Game!Hallelujah!\My!Game!Hallelujah!\obj\Debug\My!Game!Hallelujah!.pdb
+g:\laboratory\My!Game!Hallelujah!\My!Game!Hallelujah!\bin\Debug\My!Game!Hallelujah!.exe
+g:\laboratory\My!Game!Hallelujah!\My!Game!Hallelujah!\bin\Debug\My!Game!Hallelujah!.pdb
+g:\laboratory\My!Game!Hallelujah!\My!Game!Hallelujah!\obj\Debug\My!Game!Hallelujah!.csprojResolveAssemblyReference.cache
+c:\My!Game!Hallelujah!\My!Game!Hallelujah!\bin\Debug\My!Game!Hallelujah!.exe.config
+c:\My!Game!Hallelujah!\My!Game!Hallelujah!\obj\Debug\My!Game!Hallelujah!.exe
+c:\My!Game!Hallelujah!\My!Game!Hallelujah!\obj\Debug\My!Game!Hallelujah!.pdb
+c:\My!Game!Hallelujah!\My!Game!Hallelujah!\bin\Debug\My!Game!Hallelujah!.exe
+c:\My!Game!Hallelujah!\My!Game!Hallelujah!\bin\Debug\My!Game!Hallelujah!.pdb
+c:\My!Game!Hallelujah!\My!Game!Hallelujah!\obj\Debug\My!Game!Hallelujah!.csprojResolveAssemblyReference.cache
+D:\laboratory\1\My!Game!Hallelujah!\My!Game!Hallelujah!\bin\Debug\My!Game!Hallelujah!.exe.config
+D:\laboratory\1\My!Game!Hallelujah!\My!Game!Hallelujah!\obj\Debug\My!Game!Hallelujah!.exe
+D:\laboratory\1\My!Game!Hallelujah!\My!Game!Hallelujah!\obj\Debug\My!Game!Hallelujah!.pdb
+C:\Users\lenovo\Desktop\1\My!Game!Hallelujah!\My!Game!Hallelujah!\bin\Debug\My!Game!Hallelujah!.exe.config
+C:\Users\lenovo\Desktop\1\My!Game!Hallelujah!\My!Game!Hallelujah!\obj\Debug\My!Game!Hallelujah!.exe
+C:\Users\lenovo\Desktop\1\My!Game!Hallelujah!\My!Game!Hallelujah!\obj\Debug\My!Game!Hallelujah!.pdb
+C:\Users\lenovo\Desktop\1\My!Game!Hallelujah!\My!Game!Hallelujah!\obj\Debug\My!Game!Hallelujah!.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\1\My!Game!Hallelujah!\My!Game!Hallelujah!\bin\Debug\My!Game!Hallelujah!.exe
+C:\Users\lenovo\Desktop\1\My!Game!Hallelujah!\My!Game!Hallelujah!\bin\Debug\My!Game!Hallelujah!.pdb
+g:\1\My!Game!Hallelujah!\My!Game!Hallelujah!\bin\Debug\My!Game!Hallelujah!.exe.config
+g:\1\My!Game!Hallelujah!\My!Game!Hallelujah!\obj\Debug\My!Game!Hallelujah!.exe
+g:\1\My!Game!Hallelujah!\My!Game!Hallelujah!\obj\Debug\My!Game!Hallelujah!.pdb
+g:\1\My!Game!Hallelujah!\My!Game!Hallelujah!\obj\Debug\My!Game!Hallelujah!.csprojResolveAssemblyReference.cache
+g:\1\My!Game!Hallelujah!\My!Game!Hallelujah!\bin\Debug\My!Game!Hallelujah!.exe
+g:\1\My!Game!Hallelujah!\My!Game!Hallelujah!\bin\Debug\My!Game!Hallelujah!.pdb
+C:\Users\lenovo\Desktop\test\My!Game!Hallelujah!\bin\Debug\My!Game!Hallelujah!.exe.config
+C:\Users\lenovo\Desktop\test\My!Game!Hallelujah!\obj\Debug\My!Game!Hallelujah!.exe
+C:\Users\lenovo\Desktop\test\My!Game!Hallelujah!\obj\Debug\My!Game!Hallelujah!.pdb
+C:\Users\lenovo\Desktop\test\My!Game!Hallelujah!\bin\Debug\My!Game!Hallelujah!.exe
+C:\Users\lenovo\Desktop\test\My!Game!Hallelujah!\bin\Debug\My!Game!Hallelujah!.pdb
+C:\Users\lenovo\Desktop\test\My!Game!Hallelujah!\obj\Debug\My!Game!Hallelujah!.csprojResolveAssemblyReference.cache
